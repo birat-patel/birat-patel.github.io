@@ -50,7 +50,7 @@ birat-patel.github.io/
 ![Home](assets/portfolio_website_project.png)
 
 ### About Section
-![About](aassets/about_section.png)
+![About](assets/about_section.png)
 
 ### Project Section
 ![Projects](assets/project_section.png)
